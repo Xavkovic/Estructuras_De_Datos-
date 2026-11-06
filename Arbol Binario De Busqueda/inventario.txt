@@ -1,0 +1,6 @@
+Caballo / 80 / 190.0
+gato / 10 / 90.0
+hamster / 10 / 90.0
+mono / 80 / 90.0
+oveja / 39 / 150.0
+pez / 80 / 30.0
